@@ -44,7 +44,7 @@ Five models were trained to predict customer churn. Each model was evaluated usi
 ### 3. **LightGBM Feature Importance**
 - Also plotted native LightGBM feature importances (based on split gain):
 
-  *(Insert this image below — from your file: `1D3679DD-237C-4CFB-B6C8-7A237907AF04.png`)*  
+    
   ![LightGBM Feature Importance](path/to/your/lgbm_importance.png)
 
 - Top features from LightGBM (also reflected in SHAP):
@@ -60,13 +60,13 @@ Five models were trained to predict customer churn. Each model was evaluated usi
   **a. SHAP Summary Bar Plot**  
   Shows average absolute SHAP values across all test samples, ranking global importance.
 
-  *(Insert this image below bar plot — from your file: `7F5E0E17-4CE7-4E2D-91A5-88EC8DCF2E57.png`)*  
+   
   ![SHAP Bar Plot](path/to/your/shap_bar_plot.png)
 
   **b. SHAP Summary Beeswarm Plot**  
   Visualizes both feature importance and value effect on churn direction.
 
-  *(Insert this image below — from your file: `93654BE2-EB81-4BBC-A3B4-B0F41817DD1C.png`)*  
+    
   ![SHAP Beeswarm](path/to/your/shap_beeswarm.png)
 
 - Key findings from SHAP:
