@@ -101,6 +101,5 @@ Five models were trained to predict customer churn. Each model was evaluated usi
   - **Customer Breakdown** (dropdown by retention strategy)
   - **Tenure vs MonthlyCharges** visual by strategy
 
-- *(Embed Tableau Public link here when ready)*  
-  `[View Dashboard on Tableau Public](YOUR-LINK-HERE)`
+
 
